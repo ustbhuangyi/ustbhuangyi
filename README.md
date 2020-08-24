@@ -1,6 +1,6 @@
 ### Hi there, I'm ustbhuangyi 👋
 
-Now I'm working at Zoom as a web frontend architect.
+Now I'm working at Zoom Ltd as a web frontend architect.
 
 **Languages and Tools:**  
 
