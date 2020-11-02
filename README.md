@@ -2,6 +2,8 @@
 
 Now I'm working at Zoom Ltd as a web frontend architect.
 
+Welcome follow my WeChat official account!
+
 ![my WeChat official account](https://ustbhuangyi.github.io/vue-analysis/assets/qrcode_mp.jpg)
 
 **Languages and Tools:**  
